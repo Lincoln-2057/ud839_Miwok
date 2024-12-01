@@ -1,4 +1,4 @@
-The Miwok Language Learning App is an Android application developed in Java using Android Studio. This app is designed to help users learn basic Miwok language vocabulary in a fun and engaging way. It features translations, audio pronunciations, and a simple user interface, making it ideal for beginners. The project is done while pursuing udacity course on Android App Development.
+The Miwok Language Learning App is an Android application developed in Java using Android Studio. This app is designed to help users learn basic Miwok language vocabulary in a fun and engaging way. It features translations, audio pronunciations, and a simple user interface, making it ideal for beginners. This project is from Udacity's android development course.
 Features
 
     Categories of Vocabulary: Learn Miwok words organized into categories such as:
